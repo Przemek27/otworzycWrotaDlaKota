@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Otworzyc Wrota Dla Kota</string>
+    <string name="read_sensor">Read Sensor</string>
+    <string name="led_on">LED ON</string>
+    <string name="led_off">LED OFF</string>
+    <string name="result">Result</string>
+</resources>
